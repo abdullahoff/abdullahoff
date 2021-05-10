@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: rehumilebiagini@gmail.com
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: The clitoris has twice as many nerve endings as the penis
+
+![Abdullah's Stats](https://github-readme-stats.vercel.app/api?username=abdullahoff&count_private=true&show_icons=true&theme=radical)
