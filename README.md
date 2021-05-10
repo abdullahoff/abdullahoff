@@ -39,3 +39,5 @@ Here are some ideas to get you started:
 
 
 ![Abdullah's Stats](https://github-readme-stats.vercel.app/api?username=abdullahoff&count_private=true&show_icons=true&theme=radical)
+
+![Visitor Count](https://profile-counter.glitch.me/abdullahoff/count.svg)
