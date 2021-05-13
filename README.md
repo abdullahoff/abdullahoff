@@ -42,6 +42,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahoff&show_icons=true&locale=en" alt="abdullahoff" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=abdullahoff&count_private=true&theme=tokyonight&showicons=true" alt="abdullahoff" /></p>
 
 
