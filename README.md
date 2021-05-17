@@ -5,7 +5,7 @@
 
 ##### Hi, I'm Abdullah:
 
-- 🎓3rd Year Student of Software and Biomedical Engineering - McMaster University
+- 🎓3rd Year Student of Software and Biomedical Engineering @ McMaster University
 - :test_tube: Currently looking for summer 2022 internships
 - 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
 - :speech_balloon: Ask me about crypto-currency, game development, full-stack, web, or literally anything!
