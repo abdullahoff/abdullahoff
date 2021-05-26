@@ -3,7 +3,7 @@
 **abdullahoff/abdullahoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-##### Hi, I'm Abdullah:
+#### Hi, I'm Abdullah:
 
 - 🎓3rd Year Student of Software and Biomedical Engineering @ McMaster University
 - :test_tube: Currently looking for summer 2022 internships
