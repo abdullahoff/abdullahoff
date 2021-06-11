@@ -7,7 +7,7 @@
 
 - 🎓3rd Year Student of Software and Biomedical Engineering @ McMaster University
 - :test_tube: Currently looking for summer 2022 internships
-- 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
+- 🪐 Interested in Crypto, Space, Powerlifting and Video Game development
 - :speech_balloon: Ask me about crypto-currency, game development, full-stack, web, or literally anything!
 - :mailbox: Feel free to reach out to me using the links below
 
