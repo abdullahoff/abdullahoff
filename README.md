@@ -5,11 +5,11 @@
 
 #### Hi, I'm Abdullah:
 
-- 🎓3rd Year Student of Software and Biomedical Engineering @ McMaster University
+- 🎓4th Year Student of Software and Biomedical Engineering @ McMaster University
 - :test_tube: Currently looking for summer 2022 internships
 - 🪐 Interested in Crypto, Space, Powerlifting and Video Game development
 - :speech_balloon: Ask me about crypto-currency, game development, full-stack, web, or literally anything!
-- :mailbox: Feel free to reach out to me using the links below
+- :mailbox: Feel free to reach out to me using the links below 
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdula39@mcmaster.ca)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdula39)
